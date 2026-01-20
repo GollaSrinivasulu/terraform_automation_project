@@ -1,0 +1,4 @@
+emp_id,name,dept_name,salary
+1,A,AZURE,1000000
+3,C,GCP,500000
+6,F,AWS,2000000

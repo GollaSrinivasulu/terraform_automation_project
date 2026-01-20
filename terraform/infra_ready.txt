@@ -1,0 +1,1 @@
+Terraform executed Spark Docker pipeline successfully.
