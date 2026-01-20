@@ -160,15 +160,6 @@ GitHub: https://github.com/GollaSrinivasulu
 
 ---
 
-## 🎯 Hackathon Ready
-
-✔ Spark Processing  
-✔ Docker Containerization  
-✔ Terraform Automation  
-✔ End-to-End Reproducible Pipeline  
-
----
-
 ### 🚀 One Command Execution
 
 terraform apply
