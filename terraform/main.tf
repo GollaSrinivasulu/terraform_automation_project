@@ -40,7 +40,7 @@ resource "null_resource" "copy_output" {
 
 # Confirmation file
 resource "local_file" "infra_ready" {
-  filename = "${path.cwd}/infra_ready.txt"
-  content  = "Terraform executed Spark Docker pipeline successfully."
+  filename   = "${path.cwd}/infra_ready.txt"
+  content    = "Terraform executed Spark Docker pipeline successfully."
   depends_on = [null_resource.copy_output]
 }
